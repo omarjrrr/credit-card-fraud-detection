@@ -15,13 +15,12 @@ This project demonstrates how to build machine learning models that can **detect
 ## ✨ Features
 ✔️ Data cleaning and preprocessing  
 ✔️ Handling imbalanced datasets (undersampling / oversampling)  
-✔️ Training multiple ML models (Logistic Regression, Random Forest, etc.)  
+✔️ Training multiple ML models (Logistic Regression, Decision Tree, etc.)  
 ✔️ Model evaluation using:
 - Accuracy  
 - Precision  
 - Recall  
 - F1-score  
-- ROC-AUC  
 
 ✔️ Visualization of model performance  
 
